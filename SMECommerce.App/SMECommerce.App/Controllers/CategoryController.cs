@@ -14,10 +14,22 @@ namespace SMECommerce.App.Controllers
             return "This is the default Controller";
         }
 
-        public string Create(CategoryCreate category)
+        public IActionResult Create()
         {
-            return $"Category Create: {category.Name} Code: {category.Code}"; 
+            return View();
         }
+
+        [HttpPost]
+        public IActionResult Create(CategoryCreate model)
+        {
+            if (model.Name != null)
+            {
+                return View("Success");
+            }
+
+            return View();
+        }
+
 
         public string CategoryListCreate(CategoryCreate[] categories)
         {

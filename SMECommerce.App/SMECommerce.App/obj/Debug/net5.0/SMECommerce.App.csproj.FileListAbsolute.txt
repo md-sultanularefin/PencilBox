@@ -38,3 +38,5 @@ D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\
 D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.pdb
 D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.genruntimeconfig.cache
 D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\SMECommerce.App.csproj.CopyComplete
+D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
