@@ -1,0 +1,13 @@
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CopyComplete

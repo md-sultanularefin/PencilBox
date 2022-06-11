@@ -1,0 +1,9 @@
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\bin\Debug\netstandard2.1\SMECommerce.Models.deps.json
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.AssemblyInfoInputs.cache
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.AssemblyInfo.cs
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.csproj.CoreCompileInputs.cache
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.dll
+D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.Models\obj\Debug\netstandard2.1\SMECommerce.Models.pdb

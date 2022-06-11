@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SMECommerce.App
-build_property.ProjectDir = D:\Pencil-Box_Dot.Net\Practice\SMECommerce.App\SMECommerce.App\
+build_property.ProjectDir = D:\Pencil-Box_Dot.Net\PencilBox\SMECommerce.App\SMECommerce.App\
