@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Repositorie.deps.json
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Repositorie.dll
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Repositorie.pdb
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.AssemblyInfo.cs
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.csproj.CopyComplete
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.dll
+C:\Users\HP\Downloads\PencilBox-main\PencilBox-main\SMECommerce.App\SMECommerce.Repositorie\obj\Debug\netstandard2.1\SMECommerce.Repositorie.pdb

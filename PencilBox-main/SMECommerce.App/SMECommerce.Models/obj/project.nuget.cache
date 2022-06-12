@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iE6WNWIkxwdDhWYPVfUtfY5eXiigMOTE8JlqLQsNWkevh6fqnUks/qPDY0GHtEz7q79AH2l3D5u5OKjp1NBG0w==",
+  "success": true,
+  "projectFilePath": "D:\\Pencil-Box_Dot.Net\\Practice\\PencilBox-main\\PencilBox-main\\SMECommerce.App\\SMECommerce.Models\\SMECommerce.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
